@@ -1,0 +1,6 @@
+Kaylas-MacBook:assignment 3 KaylaSiemon$ java ListOutFilesInDir
+Welcome!
+Please enter the path (/Users/username/documents/etc): /Users/KaylaSiemon/documents/cscd316
+Please input the extension of the source files (java for Java files, cs for C# files, etc.): java
+Number of source files processed: 3
+The total number of lines of code in all the source files: 174

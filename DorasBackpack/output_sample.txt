@@ -1,0 +1,12 @@
+Dora's Backpack Contains:
+Backpack Maximum Weight: 5
+Weight: 3 		Benefit: 4
+Weight: 2 		Benefit: 3
+Loaded weight: 5	Total Benefit: 7
+
+Dora's Backpack Contains:
+Backpack Maximum Weight: 7
+Weight: 5 		Benefit: 9
+Weight: 2 		Benefit: 4
+Loaded weight: 7	Total Benefit: 13
+
